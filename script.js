@@ -12,7 +12,11 @@ function playerSelection(params) {
   
 }
 
-function computerSelection(params) {
+function computerSelection() {
+  return getComputerChoice();
+}
+
+function playGame(){
   
 }
 
